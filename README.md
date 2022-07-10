@@ -1,6 +1,9 @@
 # Iran-geo-chart-tamplate
 geo chart of Iran provinces using google charts
 
+![image](https://user-images.githubusercontent.com/41344995/178153292-34ec32bd-b5d5-4c85-836c-4dd9d5bca0c2.png)
+
+
 
 ### template for Iran provinces on google charts:
 you can use server.js on google apps script to generate json data of chart or provide json file via other languages. e.g. php, node or ... .
